@@ -1,6 +1,7 @@
 # Portfolio Rebalancer
 
 Sistema de rebalanceo de portafolios de inversión.
+Version de Python utilizada = 3.12.9
 
 ## Estructura
 
