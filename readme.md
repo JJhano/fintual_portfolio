@@ -2,6 +2,8 @@
 
 Sistema de rebalanceo de portafolios de inversión.
 Version de Python utilizada = 3.12.9
+chat IA: 
+https://gemini.google.com/share/2e08bec82cca
 
 ## Estructura
 
